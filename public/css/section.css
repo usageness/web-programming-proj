@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+}
+
+section {
+    display: inline-block;
+    margin-left: 200px;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    color: black;
+}
+
+caption {
+    background-color: #32BF84;
+    text-align: center;
+    color: #ffffff;
+}
+
+article tr {
+    background-color:lightyellow;
+}
+figure > figcaption {
+    width: 16em;
+}

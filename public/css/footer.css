@@ -3,6 +3,7 @@ body {
 }
 
 footer {
+    clear: both;
     background-color: #eeeeee;
     text-align: center;
     padding: 20px;

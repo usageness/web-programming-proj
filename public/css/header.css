@@ -13,6 +13,7 @@ header {
 }
 
 .header-bottom {
+    background-color: lightyellow;
     padding: 10px;
     border-bottom: 1px solid #dddddd;
 }
