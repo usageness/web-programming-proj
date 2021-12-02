@@ -1,10 +1,9 @@
 body {
-    margin: 0;
+    background-color: #eeeeee;
 }
 
 footer {
     clear: both;
-    background-color: #eeeeee;
     text-align: center;
     padding: 20px;
     color: #888888;

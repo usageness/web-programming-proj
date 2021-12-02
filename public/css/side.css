@@ -1,12 +1,17 @@
 body {
     background-color:lightyellow;
-      margin: 0;
+    margin: 0;
+    overflow: hidden;
 }
 
 side {
     display: inline-block;
-    margin-right:200px;
     text-align: center;
     padding: 10px;
     color: black;
+}
+
+.header {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #cccccc;
 }

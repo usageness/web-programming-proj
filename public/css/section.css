@@ -4,10 +4,8 @@ body {
 
 section {
     display: inline-block;
-    margin-left: 200px;
     background-color: white;
     text-align: center;
-    padding: 10px;
     color: black;
 }
 
@@ -18,8 +16,33 @@ caption {
 }
 
 article tr {
-    background-color:lightyellow;
+    background-color: lightyellow;
 }
+
+td {
+    padding: 0 20px;
+}
+
 figure > figcaption {
     width: 16em;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+img {
+    width: 250px;
+    height: 150px;
+}
+
+figcaption {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.table-title {
+    padding: 30px 0 0 30px;
 }
