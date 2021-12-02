@@ -5,7 +5,7 @@ body {
 }
 
 side {
-    display: inline-block;
+    display: block;
     text-align: center;
     padding: 10px;
     color: black;

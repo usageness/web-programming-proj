@@ -15,16 +15,15 @@ caption {
     color: #ffffff;
 }
 
-article tr {
-    background-color: lightyellow;
-}
-
 td {
     padding: 0 20px;
 }
 
 figure > figcaption {
     width: 16em;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
 }
 
 a {
@@ -35,12 +34,6 @@ a {
 img {
     width: 250px;
     height: 150px;
-}
-
-figcaption {
-    text-align: center;
-    font-weight: bold;
-    margin-top: 5px;
 }
 
 .table-title {
