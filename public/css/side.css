@@ -4,7 +4,7 @@ body {
     overflow: hidden;
 }
 
-side {
+aside {
     display: block;
     text-align: center;
     padding: 10px;
